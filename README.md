@@ -17,8 +17,8 @@ YouTube Video:  [Link](https://youtu.be/HzmqWJ_XQ2s)
 | --- | --- | --- | --- |
 | 1 | Created API Key | 2023-04-30 | DONE |
 | 2 | Weekly Time Series Stock data fetched | 2023-05-01 | DONE |
-| 3 | Data Pre-processing (Ayushi Porwal) | 2023-05-03 | DONE |
-| 4 | Dataframe parsing (Ayushi Porwal)| 2023-05-04 | DONE |
+| 3 | Data Pre-processing | 2023-05-03 | DONE |
+| 4 | Dataframe parsing| 2023-05-04 | DONE |
 | 5 | Moving averages calculation | 2023-05-07 | DONE |
 | 6 | Creating plots for visualization | 2023-05-08 | DONE |
 | 7 | Final data visualization | 2023-05-08 | DONE |
